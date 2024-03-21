@@ -1,4 +1,5 @@
 Hi I @GQAKATKA
+
 I'm interested... to learn the Rust language, I read the Rustbook in 3 months
 
 Currently studying...my status is trainee
