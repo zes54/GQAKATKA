@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zes54
-- 👀 I’m interested in ... learning the Rust language, read Rustbook in 3 months
-- 🌱 I’m currently learning ... my status is intern
-- 💞️ I’m looking to collaborate ... I need advice on writing which simple tasks to start with
-- 📫 How to reach me ... in telegram @GQAKATKA
+Hi I @GQAKATKA
+I'm interested... to learn the Rust language, I read the Rustbook in 3 months
+Currently studying...my status is trainee
+I invite you to cooperate... I need advice on writing what simple tasks to start with
+How to contact me... in telegram @GQAKATKA
