@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @AKA-AKA-AKA
-- 👀 I’m interested in ... изучение языка rust, лекции и простые программы
-- 🌱 I’m currently learning ... стажер intern
-- 💞️ I’m looking to collaborate ... нужен совет с написания каких простых задач начинать
-- 📫 How to reach me ... через Github приложение
-есть кто живой ? 🐰
+- 👋 Hi, I’m @zes54
+- 👀 I’m interested in ... learning the Rust language, read Rustbook in 3 months
+- 🌱 I’m currently learning ... my status is intern
+- 💞️ I’m looking to collaborate ... I need advice on writing which simple tasks to start with
+- 📫 How to reach me ... 
 <!---
 AKA-AKA-AKA/AKA-AKA-AKA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
